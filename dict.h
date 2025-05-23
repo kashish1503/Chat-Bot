@@ -1,4 +1,4 @@
-// Do NOT add any other includes
+
 #include <string> 
 #include <vector>
 #include <iostream>
@@ -32,9 +32,7 @@ private:
     void inorder();
 
 public: 
-    /* Please do not touch the attributes and 
-    functions within the guard lines placed below  */
-    /* ------------------------------------------- */
+    
     Dict();
 
     ~Dict();
@@ -53,5 +51,4 @@ public:
 
     vector<pair<int,vector<int>>> get_address(string word);
 
-    /* -----------------------------------------*/
 };
