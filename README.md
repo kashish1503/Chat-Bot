@@ -1,6 +1,6 @@
 # Corpus Q&A Tool
 
-The **Corpus Q&A Tool** is a system designed to answer complex natural language questions by retrieving and evaluating the most relevant passages from a large corpus of text, and optionally querying a language model such as ChatGPT to generate final answers.
+The **Corpus Q&A Tool** is a system designed to answer complex questions by retrieving and evaluating the most relevant passages from a large corpus of text, and optionally querying a language model such as ChatGPT to generate final answers.
 
 ## Overview
 
