@@ -56,7 +56,6 @@ The system will retrieve the top-k paragraphs related to the concept and optiona
 - `search.cpp / .h` – Functions to perform word-level corpus search.
 - `api_call.py` – Handles interaction with ChatGPT or other LLMs.
 - `Node.cpp / .h` – Data structures for storing paragraph metadata.
-- `report.pdf` – Describes your approach, algorithms, and optimizations.
 
 ## Technologies Used
 
