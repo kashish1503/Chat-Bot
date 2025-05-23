@@ -10,9 +10,7 @@ private:
     // You can add attributes/helper functions here
 
 public: 
-    /* Please do not touch the attributes and 
-    functions within the guard lines placed below  */
-    /* ------------------------------------------- */
+    
     SearchEngine();
 
     ~SearchEngine();
@@ -21,5 +19,5 @@ public:
 
     Node* search(string pattern, int& n_matches);
 
-    /* -----------------------------------------*/
+
 };
